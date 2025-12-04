@@ -4,4 +4,4 @@
 
 | Day | File |
 |-----|------|
-|1|[Day 1](day1.py)|
+|1|[Day 1](day1/day1.py)|
